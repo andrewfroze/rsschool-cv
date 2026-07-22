@@ -7,7 +7,7 @@
 * Telegram: [@andrewfroze](https://t.me/andrewfroze)
 
 <p style="margin-left: 40px;">
-  <img src="tg-qr.png" width="150" alt="Telegram QR Code">
+  <img src="images/tg-qr.png" width="150" alt="Telegram QR Code">
 </p>
 
 * Discord: [Andrei Nikiporchyk (@andrewfroze)](https://discord.com/users/757560907990696048)
@@ -27,7 +27,6 @@ My primary career goal is to gradually transition from Software Test Automation 
 * Successfully led a team of 4 engineers, ensuring timely delivery of all releases.
 * Introduced visual testing and quality metrics, reducing production defects by 30%.
 * Optimized CI/CD processes, reducing test execution time by 25%.
-Skills
 
 ### Technologies
 
@@ -49,10 +48,10 @@ Skills
 
 Kata: [Optimal Snakes and Ladders](https://www.codewars.com/kata/628d26d1b110f3000e8a1c44/javascript)
 
-Task
+Task:
 Calculate the minimum rolls needed for a player to complete a game of Snakes and Ladders.
 
-```
+```javascript
 function minimumRollsRequired(boardSize, numberOfDice, snakesAndLadders) {
   let minRoll = numberOfDice;
   let maxRoll = numberOfDice * 6;
